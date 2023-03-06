@@ -1,5 +1,5 @@
 const title = document.getElementById('title');
-title.innerHTML = 'Cursos';
+title.innerHTML = 'Cursos de prueba';
 
 const description = document.getElementById('description');
 description.textContent = 'Listado de cursos';
